@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  Lab4
 //
-//  Created by Jose on 9/5/16.
-//  Copyright © 2016 robert. All rights reserved.
+//  Created by Jose Rodriguez on 22/06/16.
+//  Copyright © 2016 Jose. All rights reserved.
 //
 
 #import "AppDelegate.h"

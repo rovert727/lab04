@@ -7,6 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		82DA657F1D7E128F001C9121 /* cellTeams.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DA65721D7E128F001C9121 /* cellTeams.m */; };
+		82DA65801D7E128F001C9121 /* cellTeams.xib in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65731D7E128F001C9121 /* cellTeams.xib */; };
+		82DA65811D7E128F001C9121 /* Declarations.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DA65751D7E128F001C9121 /* Declarations.m */; };
+		82DA65821D7E128F001C9121 /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DA65771D7E128F001C9121 /* Home.m */; };
+		82DA65831D7E128F001C9121 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65781D7E128F001C9121 /* images */; };
+		82DA65841D7E128F001C9121 /* Intro.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DA657A1D7E128F001C9121 /* Intro.m */; };
+		82DA65851D7E128F001C9121 /* Lab4.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 82DA657B1D7E128F001C9121 /* Lab4.xcdatamodeld */; };
+		82DA65861D7E128F001C9121 /* Start.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DA657E1D7E128F001C9121 /* Start.m */; };
+		82DA659A1D7E12A9001C9121 /* america.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65881D7E12A9001C9121 /* america.png */; };
+		82DA659B1D7E12A9001C9121 /* atlas.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65891D7E12A9001C9121 /* atlas.png */; };
+		82DA659C1D7E12A9001C9121 /* chiapas.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA658A1D7E12A9001C9121 /* chiapas.png */; };
+		82DA659D1D7E12A9001C9121 /* chivas.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA658B1D7E12A9001C9121 /* chivas.png */; };
+		82DA659E1D7E12A9001C9121 /* cruzazul.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA658C1D7E12A9001C9121 /* cruzazul.png */; };
+		82DA659F1D7E12A9001C9121 /* leon.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA658D1D7E12A9001C9121 /* leon.png */; };
+		82DA65A01D7E12A9001C9121 /* ligamx.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA658E1D7E12A9001C9121 /* ligamx.png */; };
+		82DA65A11D7E12A9001C9121 /* monarcas.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA658F1D7E12A9001C9121 /* monarcas.png */; };
+		82DA65A21D7E12A9001C9121 /* necaxa.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65901D7E12A9001C9121 /* necaxa.png */; };
+		82DA65A31D7E12A9001C9121 /* pachuca.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65911D7E12A9001C9121 /* pachuca.png */; };
+		82DA65A41D7E12A9001C9121 /* pumas.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65921D7E12A9001C9121 /* pumas.png */; };
+		82DA65A51D7E12A9001C9121 /* queretaro.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65931D7E12A9001C9121 /* queretaro.png */; };
+		82DA65A61D7E12A9001C9121 /* rayados.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65941D7E12A9001C9121 /* rayados.png */; };
+		82DA65A71D7E12A9001C9121 /* santos.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65951D7E12A9001C9121 /* santos.png */; };
+		82DA65A81D7E12A9001C9121 /* tigres.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65961D7E12A9001C9121 /* tigres.png */; };
+		82DA65A91D7E12A9001C9121 /* toluca.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65971D7E12A9001C9121 /* toluca.png */; };
+		82DA65AA1D7E12A9001C9121 /* trofeo.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65981D7E12A9001C9121 /* trofeo.png */; };
+		82DA65AB1D7E12A9001C9121 /* xolos.png in Resources */ = {isa = PBXBuildFile; fileRef = 82DA65991D7E12A9001C9121 /* xolos.png */; };
 		82DBE8BF1D7E09C200D11A80 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DBE8BE1D7E09C200D11A80 /* main.m */; };
 		82DBE8C21D7E09C200D11A80 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DBE8C11D7E09C200D11A80 /* AppDelegate.m */; };
 		82DBE8C51D7E09C200D11A80 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82DBE8C41D7E09C200D11A80 /* ViewController.m */; };
@@ -17,6 +43,37 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		82DA65711D7E128F001C9121 /* cellTeams.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cellTeams.h; sourceTree = "<group>"; };
+		82DA65721D7E128F001C9121 /* cellTeams.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cellTeams.m; sourceTree = "<group>"; };
+		82DA65731D7E128F001C9121 /* cellTeams.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = cellTeams.xib; sourceTree = "<group>"; };
+		82DA65741D7E128F001C9121 /* Declarations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Declarations.h; sourceTree = "<group>"; };
+		82DA65751D7E128F001C9121 /* Declarations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Declarations.m; sourceTree = "<group>"; };
+		82DA65761D7E128F001C9121 /* Home.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
+		82DA65771D7E128F001C9121 /* Home.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
+		82DA65781D7E128F001C9121 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		82DA65791D7E128F001C9121 /* Intro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Intro.h; sourceTree = "<group>"; };
+		82DA657A1D7E128F001C9121 /* Intro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Intro.m; sourceTree = "<group>"; };
+		82DA657C1D7E128F001C9121 /* Lab4.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Lab4.xcdatamodel; sourceTree = "<group>"; };
+		82DA657D1D7E128F001C9121 /* Start.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Start.h; sourceTree = "<group>"; };
+		82DA657E1D7E128F001C9121 /* Start.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Start.m; sourceTree = "<group>"; };
+		82DA65881D7E12A9001C9121 /* america.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = america.png; path = images/america.png; sourceTree = "<group>"; };
+		82DA65891D7E12A9001C9121 /* atlas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = atlas.png; path = images/atlas.png; sourceTree = "<group>"; };
+		82DA658A1D7E12A9001C9121 /* chiapas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chiapas.png; path = images/chiapas.png; sourceTree = "<group>"; };
+		82DA658B1D7E12A9001C9121 /* chivas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chivas.png; path = images/chivas.png; sourceTree = "<group>"; };
+		82DA658C1D7E12A9001C9121 /* cruzazul.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cruzazul.png; path = images/cruzazul.png; sourceTree = "<group>"; };
+		82DA658D1D7E12A9001C9121 /* leon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = leon.png; path = images/leon.png; sourceTree = "<group>"; };
+		82DA658E1D7E12A9001C9121 /* ligamx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ligamx.png; path = images/ligamx.png; sourceTree = "<group>"; };
+		82DA658F1D7E12A9001C9121 /* monarcas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = monarcas.png; path = images/monarcas.png; sourceTree = "<group>"; };
+		82DA65901D7E12A9001C9121 /* necaxa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = necaxa.png; path = images/necaxa.png; sourceTree = "<group>"; };
+		82DA65911D7E12A9001C9121 /* pachuca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pachuca.png; path = images/pachuca.png; sourceTree = "<group>"; };
+		82DA65921D7E12A9001C9121 /* pumas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pumas.png; path = images/pumas.png; sourceTree = "<group>"; };
+		82DA65931D7E12A9001C9121 /* queretaro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = queretaro.png; path = images/queretaro.png; sourceTree = "<group>"; };
+		82DA65941D7E12A9001C9121 /* rayados.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rayados.png; path = images/rayados.png; sourceTree = "<group>"; };
+		82DA65951D7E12A9001C9121 /* santos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = santos.png; path = images/santos.png; sourceTree = "<group>"; };
+		82DA65961D7E12A9001C9121 /* tigres.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tigres.png; path = images/tigres.png; sourceTree = "<group>"; };
+		82DA65971D7E12A9001C9121 /* toluca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = toluca.png; path = images/toluca.png; sourceTree = "<group>"; };
+		82DA65981D7E12A9001C9121 /* trofeo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trofeo.png; path = images/trofeo.png; sourceTree = "<group>"; };
+		82DA65991D7E12A9001C9121 /* xolos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = xolos.png; path = images/xolos.png; sourceTree = "<group>"; };
 		82DBE8BA1D7E09C200D11A80 /* Lab4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82DBE8BE1D7E09C200D11A80 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		82DBE8C01D7E09C200D11A80 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -41,6 +98,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		82DA65871D7E1296001C9121 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				82DA65881D7E12A9001C9121 /* america.png */,
+				82DA65891D7E12A9001C9121 /* atlas.png */,
+				82DA658A1D7E12A9001C9121 /* chiapas.png */,
+				82DA658B1D7E12A9001C9121 /* chivas.png */,
+				82DA658C1D7E12A9001C9121 /* cruzazul.png */,
+				82DA658D1D7E12A9001C9121 /* leon.png */,
+				82DA658E1D7E12A9001C9121 /* ligamx.png */,
+				82DA658F1D7E12A9001C9121 /* monarcas.png */,
+				82DA65901D7E12A9001C9121 /* necaxa.png */,
+				82DA65911D7E12A9001C9121 /* pachuca.png */,
+				82DA65921D7E12A9001C9121 /* pumas.png */,
+				82DA65931D7E12A9001C9121 /* queretaro.png */,
+				82DA65941D7E12A9001C9121 /* rayados.png */,
+				82DA65951D7E12A9001C9121 /* santos.png */,
+				82DA65961D7E12A9001C9121 /* tigres.png */,
+				82DA65971D7E12A9001C9121 /* toluca.png */,
+				82DA65981D7E12A9001C9121 /* trofeo.png */,
+				82DA65991D7E12A9001C9121 /* xolos.png */,
+				82DA65781D7E128F001C9121 /* images */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		82DBE8B11D7E09C200D11A80 = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +143,19 @@
 		82DBE8BC1D7E09C200D11A80 /* Lab4 */ = {
 			isa = PBXGroup;
 			children = (
+				82DA65711D7E128F001C9121 /* cellTeams.h */,
+				82DA65721D7E128F001C9121 /* cellTeams.m */,
+				82DA65731D7E128F001C9121 /* cellTeams.xib */,
+				82DA65741D7E128F001C9121 /* Declarations.h */,
+				82DA65751D7E128F001C9121 /* Declarations.m */,
+				82DA65761D7E128F001C9121 /* Home.h */,
+				82DA65771D7E128F001C9121 /* Home.m */,
+				82DA65871D7E1296001C9121 /* Images */,
+				82DA65791D7E128F001C9121 /* Intro.h */,
+				82DA657A1D7E128F001C9121 /* Intro.m */,
+				82DA657B1D7E128F001C9121 /* Lab4.xcdatamodeld */,
+				82DA657D1D7E128F001C9121 /* Start.h */,
+				82DA657E1D7E128F001C9121 /* Start.m */,
 				82DBE8C01D7E09C200D11A80 /* AppDelegate.h */,
 				82DBE8C11D7E09C200D11A80 /* AppDelegate.m */,
 				82DBE8C31D7E09C200D11A80 /* ViewController.h */,
@@ -139,9 +235,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82DA65831D7E128F001C9121 /* images in Resources */,
+				82DA659F1D7E12A9001C9121 /* leon.png in Resources */,
+				82DA65A41D7E12A9001C9121 /* pumas.png in Resources */,
+				82DA65A81D7E12A9001C9121 /* tigres.png in Resources */,
+				82DA65A11D7E12A9001C9121 /* monarcas.png in Resources */,
+				82DA65AB1D7E12A9001C9121 /* xolos.png in Resources */,
+				82DA65801D7E128F001C9121 /* cellTeams.xib in Resources */,
+				82DA65A71D7E12A9001C9121 /* santos.png in Resources */,
+				82DA659B1D7E12A9001C9121 /* atlas.png in Resources */,
+				82DA65A21D7E12A9001C9121 /* necaxa.png in Resources */,
+				82DA65A91D7E12A9001C9121 /* toluca.png in Resources */,
+				82DA65AA1D7E12A9001C9121 /* trofeo.png in Resources */,
 				82DBE8D01D7E09C300D11A80 /* LaunchScreen.storyboard in Resources */,
 				82DBE8CD1D7E09C300D11A80 /* Assets.xcassets in Resources */,
+				82DA659A1D7E12A9001C9121 /* america.png in Resources */,
 				82DBE8C81D7E09C200D11A80 /* Main.storyboard in Resources */,
+				82DA659E1D7E12A9001C9121 /* cruzazul.png in Resources */,
+				82DA65A51D7E12A9001C9121 /* queretaro.png in Resources */,
+				82DA65A61D7E12A9001C9121 /* rayados.png in Resources */,
+				82DA659D1D7E12A9001C9121 /* chivas.png in Resources */,
+				82DA659C1D7E12A9001C9121 /* chiapas.png in Resources */,
+				82DA65A31D7E12A9001C9121 /* pachuca.png in Resources */,
+				82DA65A01D7E12A9001C9121 /* ligamx.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,9 +269,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				82DBE8CB1D7E09C200D11A80 /* Lab4.xcdatamodeld in Sources */,
+				82DA657F1D7E128F001C9121 /* cellTeams.m in Sources */,
+				82DA65861D7E128F001C9121 /* Start.m in Sources */,
+				82DA65811D7E128F001C9121 /* Declarations.m in Sources */,
 				82DBE8C51D7E09C200D11A80 /* ViewController.m in Sources */,
+				82DA65821D7E128F001C9121 /* Home.m in Sources */,
 				82DBE8C21D7E09C200D11A80 /* AppDelegate.m in Sources */,
+				82DA65841D7E128F001C9121 /* Intro.m in Sources */,
 				82DBE8BF1D7E09C200D11A80 /* main.m in Sources */,
+				82DA65851D7E128F001C9121 /* Lab4.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,10 +428,21 @@
 				82DBE8D61D7E09C300D11A80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
+		82DA657B1D7E128F001C9121 /* Lab4.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				82DA657C1D7E128F001C9121 /* Lab4.xcdatamodel */,
+			);
+			currentVersion = 82DA657C1D7E128F001C9121 /* Lab4.xcdatamodel */;
+			path = Lab4.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
 		82DBE8C91D7E09C200D11A80 /* Lab4.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
